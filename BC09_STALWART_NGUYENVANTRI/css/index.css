@@ -51,7 +51,7 @@ header{
 header h1{
     font-size: 45px;
     color: #e67956;
-    margin-bottom: -44px;
+    transform: translateY(20px);
     position: relative;
     z-index: 9;
     line-height: 1;
